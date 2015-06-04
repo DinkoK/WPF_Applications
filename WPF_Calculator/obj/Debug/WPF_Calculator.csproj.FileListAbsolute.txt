@@ -1,0 +1,13 @@
+C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\bin\Debug\WPF_Calculator.exe.config
+C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\obj\Debug\MainWindow.baml
+C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\obj\Debug\App.g.cs
+C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator_MarkupCompile.cache
+C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.g.resources
+C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.Properties.Resources.resources
+C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.csproj.GenerateResource.Cache
+C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\bin\Debug\WPF_Calculator.exe
+C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\bin\Debug\WPF_Calculator.pdb
+C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.exe
+C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.pdb
