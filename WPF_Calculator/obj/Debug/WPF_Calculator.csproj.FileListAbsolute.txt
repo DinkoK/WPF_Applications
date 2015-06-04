@@ -11,3 +11,6 @@ C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Cal
 C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\bin\Debug\WPF_Calculator.pdb
 C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.exe
 C:\Users\Dinko\Desktop\Desktop_Appication\WPF_Calculator2\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.pdb
+C:\Users\Dinko\Desktop\GitHub_ projects\WPF_Applications\WPF_Calculator\bin\Debug\WPF_Calculator.exe.config
+C:\Users\Dinko\Desktop\GitHub_ projects\WPF_Applications\WPF_Calculator\obj\Debug\WPF_Calculator.exe
+C:\Users\Dinko\Desktop\GitHub_ projects\WPF_Applications\WPF_Calculator\obj\Debug\WPF_Calculator.pdb

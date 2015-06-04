@@ -72,7 +72,7 @@
 
             <Button Grid.Row="2" Grid.Column="0" Margin="5" Name="btnDrop"  FontSize="24" >%</Button>
 
-            <Button Grid.Row="2" FontSize="24" Grid.Column="1" Margin="5,5,5,0" Name="btnPlusMinus" Height="42">+-</Button>
+            <Button Grid.Row="2" FontSize="24" Grid.Column="1" Margin="5" Name="btnPlusMinus" Height="42">+-</Button>
 
             <Button Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Margin="5" Tag="=" Name="btnEqual" FontSize="24">=</Button>
         </Grid>
